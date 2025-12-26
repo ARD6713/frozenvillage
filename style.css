@@ -1,0 +1,21 @@
+body{
+    padding: 20px;
+    background-color: lightgrey;
+}
+
+.button{
+    background-color: lightblue;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 50px;
+    margin-right: 50px;
+    color: red;
+}
+
+.button:hover{
+    background-color:rgb(143, 206, 220) ;
+    color: rgb(225, 0, 0);
+}
